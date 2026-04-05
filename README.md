@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/eZtGvCk.gif" width="700" height="200"/>
-</p>
-
 # free, project time tracking cli
 
 
