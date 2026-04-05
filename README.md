@@ -4,6 +4,8 @@ A high-performance, aesthetically pleasing Command Line Interface (CLI) for trac
 
 Completely free of charge, for you or anyone else.
 
+**I do not guarantee anything, it's a python file. Read it yourself. For any issues, suggestions or such. Idk, fork it and do that.**
+
 Created mostly with the help of AI, I am busy on my own project but I couldn't bother to search for a CLI based time-tracker, and most of the UI based ones are paid. Like seriously? I have to pay to **track time**?
 
 ---
