@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Local SQLite Database (Your personal history)
+.time_tracker.db
+*.db
+
+# Environment-specific (if you use venv)
+venv/
+.env
