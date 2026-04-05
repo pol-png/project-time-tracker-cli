@@ -50,7 +50,7 @@ Clone or move into your project folder and run:
 3. **Check Status**
    ``tracker current``
 4. **Open the Dashboard:**
-   ``tracker dash`` (or !!tracker dash matrix!! for the animation)
+   ``tracker dash``
 5. **Stop for the day:**
    ``tracker stop``
 
@@ -63,7 +63,6 @@ Clone or move into your project folder and run:
 | ``tracker continue`` | Choose from the last 5 tasks to resume. |
 | ``tracker total`` | View a progress bar and total hours for the active project. |
 | ``tracker dash`` | Open the simple live-updating UI. |
-| ``tracker dash matrix`` | Open the Matrix-style animation dashboard. |
 
 ---
 
