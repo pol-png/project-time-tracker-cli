@@ -1,4 +1,9 @@
-# Very fucking basic time tracker, unpaid, free.
+<p align="center">
+  <img src="https://i.imgur.com/eZtGvCk.gif" width="700" height="200"/>
+</p>
+
+# free, project time tracking cli
+
 
 A high-performance, aesthetically pleasing Command Line Interface (CLI) for tracking work hours across multiple projects. Built with ``Python``, ``SQLite``, and ``Rich``, featuring a live-updating dashboard.
 
@@ -90,5 +95,10 @@ python -m pip uninstall my-tracker -y
 
 ### Customization
 You can change your ``**Daily Goal**`` (currently set to 8 hours) by editing the ``goal_seconds`` variable in ``tracker.py`` inside the ``show_fancy_total`` function.
+___
+<p align="center">
+  <img src="https://i.imgur.com/f12Lbyq.gif" width="100" height="100"/>
+  <p align="center">Happy time tracking and programming.</p>
+</p>
 
-**hapy tracking, and good luck!**
+
