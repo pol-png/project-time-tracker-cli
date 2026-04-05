@@ -36,7 +36,8 @@ Clone or move into your project folder and run:
 ```python -m pip install rich```
 
 ### Install the tool globally (Windows/Linux)
-> You have to be in the root folder of the project.
+#### You have to be in the root folder of the project.
+
 ```python -m pip install --editable .```
 
 ---
@@ -67,7 +68,7 @@ Clone or move into your project folder and run:
 
 ---
 
-## !!🧹 Maintenance & Deletion
+## Maintenance & Deletion
 
 ### Resetting the Database
 If you want to wipe all your history and start fresh, delete the hidden database file in your user folder:
@@ -90,7 +91,7 @@ python -m pip uninstall my-tracker -y
 ---
 
 ### Customization
-You can change your ``**Daily Goal**`` (currently set to 8 hours) by editing the ``goal_seconds`` variable in ``tracker.py`` inside the ``show_fancy_total`` function.
+You can change your **Daily Goal** (currently set to 8 hours) by editing the ``goal_seconds`` variable in ``tracker.py`` inside the ``show_fancy_total`` function.
 ___
 <p align="center">
   <img src="https://i.imgur.com/f12Lbyq.gif" width="100" height="100"/>
