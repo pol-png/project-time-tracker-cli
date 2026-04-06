@@ -84,9 +84,9 @@ python -m pip uninstall my-tracker -y
 ---
 
 ### Project Structure
-* ``tracker.py``: The core logic, database management, and Rich UI.
-* ``setup.py``: Configuration for the !!pip!! installation and entry points.
-* ``README.md``: This guide.
+* **tracker.py**: The core logic, database management, and Rich UI.
+* **setup.py**: Configuration for the !!pip!! installation and entry points.
+* **README.md**: This guide.
 
 ---
 
