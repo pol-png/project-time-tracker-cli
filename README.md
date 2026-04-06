@@ -94,8 +94,9 @@ python -m pip uninstall my-tracker -y
 You can change your **Daily Goal** (currently set to 8 hours) by editing the ``goal_seconds`` variable in ``tracker.py`` inside the ``show_fancy_total`` function.
 ___
 <p align="center">
-  <img src="https://i.imgur.com/f12Lbyq.gif" width="100" height="100"/>
+  <img src="https://i.imgur.com/ILNHvSQ.gif" width="100" height="100"/>
   <p align="center">Happy time tracking and programming.</p>
 </p>
+
 
 
