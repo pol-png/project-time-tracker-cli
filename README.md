@@ -72,8 +72,8 @@ Clone or move into your project folder and run:
 
 ### Resetting the Database
 If you want to wipe all your history and start fresh, delete the hidden database file in your user folder:
-* ``**Windows:**`` ``del $HOME\.time_tracker.db``
-* ``**Linux/macOS:**`` ``rm ~/.time_tracker.db'`
+* **Windows:** ``del $HOME\.time_tracker.db``
+* **Linux/macOS:** ``rm ~/.time_tracker.db'`
 
 ### Uninstalling the CLI
 To remove the ``tracker`` command from your system:
